@@ -1,0 +1,984 @@
+2014-03-31 18:35:54 Error: [MissingControllerException] Controller class UsersController could not be found.
+#0 C:\wamp\www\gestion\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-03-31 18:36:34 Error: [MissingControllerException] Controller class UsersController could not be found.
+#0 C:\wamp\www\gestion\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-03-31 18:36:38 Error: [MissingControllerException] Controller class UsersController could not be found.
+#0 C:\wamp\www\gestion\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-03-31 18:36:50 Error: [MissingControllerException] Controller class UsersController could not be found.
+#0 C:\wamp\www\gestion\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-03-31 18:38:13 Error: [MissingControllerException] Controller class UsersController could not be found.
+#0 C:\wamp\www\gestion\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-03-31 18:43:32 Error: [MissingControllerException] Controller class UsersController could not be found.
+#0 C:\wamp\www\gestion\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-03-31 18:44:54 Error: Fatal Error (4): syntax error, unexpected '(', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in [C:\wamp\www\gestion\app\View\Users\signup.ctp, line 5]
+2014-03-31 18:44:54 Error: [FatalErrorException] syntax error, unexpected '(', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$'
+#0 C:\wamp\www\gestion\lib\Cake\Error\ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 5)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 5, Array)
+#2 C:\wamp\www\gestion\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\ges...', 5, Array)
+#3 C:\wamp\www\gestion\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-03-31 18:47:11 Error: Fatal Error (4): syntax error, unexpected '(', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in [C:\wamp\www\gestion\app\View\Users\signup.ctp, line 5]
+2014-03-31 18:47:11 Error: [FatalErrorException] syntax error, unexpected '(', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$'
+#0 C:\wamp\www\gestion\lib\Cake\Error\ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 5)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 5, Array)
+#2 C:\wamp\www\gestion\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\ges...', 5, Array)
+#3 C:\wamp\www\gestion\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-03 16:35:20 Error: [MissingControllerException] Controller class UserController could not be found.
+#0 C:\wamp\www\gestion\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-04-03 16:35:30 Error: Fatal Error (4): syntax error, unexpected '', array('' (T_CONSTANT_ENCAPSED_STRING) in [C:\wamp\www\gestion\app\Controller\UsersController.php, line 7]
+2014-04-03 16:35:30 Error: [FatalErrorException] syntax error, unexpected '', array('' (T_CONSTANT_ENCAPSED_STRING)
+#0 C:\wamp\www\gestion\lib\Cake\Error\ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 7)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 7, Array)
+#2 C:\wamp\www\gestion\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\ges...', 7, Array)
+#3 C:\wamp\www\gestion\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-03 16:37:35 Error: Fatal Error (4): syntax error, unexpected ')', expecting ',' or ';' in [C:\wamp\www\gestion\app\Model\User.php, line 12]
+2014-04-03 16:37:35 Error: [FatalErrorException] syntax error, unexpected ')', expecting ',' or ';'
+#0 C:\wamp\www\gestion\lib\Cake\Error\ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 12)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 12, Array)
+#2 C:\wamp\www\gestion\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\ges...', 12, Array)
+#3 C:\wamp\www\gestion\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-03 16:37:42 Error: Fatal Error (4): syntax error, unexpected ')', expecting ',' or ';' in [C:\wamp\www\gestion\app\Model\User.php, line 12]
+2014-04-03 16:37:42 Error: [FatalErrorException] syntax error, unexpected ')', expecting ',' or ';'
+#0 C:\wamp\www\gestion\lib\Cake\Error\ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 12)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 12, Array)
+#2 C:\wamp\www\gestion\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\ges...', 12, Array)
+#3 C:\wamp\www\gestion\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-03 16:37:45 Error: Fatal Error (4): syntax error, unexpected ')', expecting ',' or ';' in [C:\wamp\www\gestion\app\Model\User.php, line 12]
+2014-04-03 16:37:45 Error: [FatalErrorException] syntax error, unexpected ')', expecting ',' or ';'
+#0 C:\wamp\www\gestion\lib\Cake\Error\ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 12)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 12, Array)
+#2 C:\wamp\www\gestion\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\ges...', 12, Array)
+#3 C:\wamp\www\gestion\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-03 16:38:07 Error: Fatal Error (4): syntax error, unexpected ')', expecting ',' or ';' in [C:\wamp\www\gestion\app\Model\User.php, line 12]
+2014-04-03 16:38:07 Error: [FatalErrorException] syntax error, unexpected ')', expecting ',' or ';'
+#0 C:\wamp\www\gestion\lib\Cake\Error\ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 12)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 12, Array)
+#2 C:\wamp\www\gestion\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\ges...', 12, Array)
+#3 C:\wamp\www\gestion\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-03 16:38:38 Error: Fatal Error (4): syntax error, unexpected ')', expecting ',' or ';' in [C:\wamp\www\gestion\app\Model\User.php, line 12]
+2014-04-03 16:38:38 Error: [FatalErrorException] syntax error, unexpected ')', expecting ',' or ';'
+#0 C:\wamp\www\gestion\lib\Cake\Error\ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 12)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 12, Array)
+#2 C:\wamp\www\gestion\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\ges...', 12, Array)
+#3 C:\wamp\www\gestion\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-03 16:38:50 Error: Fatal Error (4): syntax error, unexpected ')', expecting ',' or ';' in [C:\wamp\www\gestion\app\Model\User.php, line 12]
+2014-04-03 16:38:50 Error: [FatalErrorException] syntax error, unexpected ')', expecting ',' or ';'
+#0 C:\wamp\www\gestion\lib\Cake\Error\ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 12)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 12, Array)
+#2 C:\wamp\www\gestion\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\ges...', 12, Array)
+#3 C:\wamp\www\gestion\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-03 16:40:59 Error: Fatal Error (4): syntax error, unexpected ')', expecting ',' or ';' in [C:\wamp\www\gestion\app\Model\User.php, line 12]
+2014-04-03 16:40:59 Error: [FatalErrorException] syntax error, unexpected ')', expecting ',' or ';'
+#0 C:\wamp\www\gestion\lib\Cake\Error\ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 12)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 12, Array)
+#2 C:\wamp\www\gestion\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\ges...', 12, Array)
+#3 C:\wamp\www\gestion\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-03 16:54:06 Error: Fatal Error (4): syntax error, unexpected ';', expecting ')' in [C:\wamp\www\gestion\app\Model\User.php, line 41]
+2014-04-03 16:54:06 Error: [FatalErrorException] syntax error, unexpected ';', expecting ')'
+#0 C:\wamp\www\gestion\lib\Cake\Error\ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 41)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 41, Array)
+#2 C:\wamp\www\gestion\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\ges...', 41, Array)
+#3 C:\wamp\www\gestion\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-03 16:57:23 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'User.mail' in 'where clause'
+#0 C:\wamp\www\gestion\lib\Cake\Model\Datasource\DboSource.php(459): PDOStatement->execute(Array)
+#1 C:\wamp\www\gestion\lib\Cake\Model\Datasource\DboSource.php(425): DboSource->_execute('SELECT COUNT(*)...', Array)
+#2 C:\wamp\www\gestion\lib\Cake\Model\Datasource\DboSource.php(669): DboSource->execute('SELECT COUNT(*)...', Array, Array)
+#3 C:\wamp\www\gestion\lib\Cake\Model\Datasource\DboSource.php(1080): DboSource->fetchAll('SELECT COUNT(*)...', false)
+#4 C:\wamp\www\gestion\lib\Cake\Model\Model.php(2642): DboSource->read(Object(User), Array)
+#5 C:\wamp\www\gestion\lib\Cake\Model\Model.php(2995): Model->find('count', Array)
+#6 [internal function]: Model->isUnique(Array, Array)
+#7 C:\wamp\www\gestion\lib\Cake\Model\Validator\CakeValidationRule.php(271): call_user_func_array(Array, Array)
+#8 C:\wamp\www\gestion\lib\Cake\Model\Validator\CakeValidationSet.php(133): CakeValidationRule->process('mail', Array, Array)
+#9 C:\wamp\www\gestion\lib\Cake\Model\ModelValidator.php(268): CakeValidationSet->validate(Array, false)
+#10 C:\wamp\www\gestion\lib\Cake\Model\ModelValidator.php(99): ModelValidator->errors(Array)
+#11 C:\wamp\www\gestion\lib\Cake\Model\Model.php(3021): ModelValidator->validates(Array)
+#12 C:\wamp\www\gestion\lib\Cake\Model\Model.php(1648): Model->validates(Array)
+#13 C:\wamp\www\gestion\app\Controller\UsersController.php(7): Model->save(Array, true, Array)
+#14 [internal function]: UsersController->signup()
+#15 C:\wamp\www\gestion\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#16 C:\wamp\www\gestion\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#17 C:\wamp\www\gestion\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#18 C:\wamp\www\gestion\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#19 {main}
+2014-04-03 17:07:49 Error: Fatal Error (1): Class 'Security' not found in [C:\wamp\www\gestion\app\Controller\UsersController.php, line 8]
+2014-04-03 17:07:49 Error: [FatalErrorException] Class 'Security' not found
+#0 C:\wamp\www\gestion\lib\Cake\Error\ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'Class 'Security...', 'C:\wamp\www\ges...', 8)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'Security...', 'C:\wamp\www\ges...', 8, Array)
+#2 C:\wamp\www\gestion\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 1, 'Class 'Security...', 'C:\wamp\www\ges...', 8, Array)
+#3 C:\wamp\www\gestion\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-03 17:11:23 Error: [MissingActionException] Action UsersController::login() could not be found.
+#0 C:\wamp\www\gestion\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\gestion\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\gestion\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-04-03 17:54:40 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'User.mail' in 'where clause'
+#0 C:\wamp\www\gestion\lib\Cake\Model\Datasource\DboSource.php(459): PDOStatement->execute(Array)
+#1 C:\wamp\www\gestion\lib\Cake\Model\Datasource\DboSource.php(425): DboSource->_execute('SELECT COUNT(*)...', Array)
+#2 C:\wamp\www\gestion\lib\Cake\Model\Datasource\DboSource.php(669): DboSource->execute('SELECT COUNT(*)...', Array, Array)
+#3 C:\wamp\www\gestion\lib\Cake\Model\Datasource\DboSource.php(1080): DboSource->fetchAll('SELECT COUNT(*)...', false)
+#4 C:\wamp\www\gestion\lib\Cake\Model\Model.php(2642): DboSource->read(Object(User), Array)
+#5 C:\wamp\www\gestion\lib\Cake\Model\Model.php(2995): Model->find('count', Array)
+#6 [internal function]: Model->isUnique(Array, Array)
+#7 C:\wamp\www\gestion\lib\Cake\Model\Validator\CakeValidationRule.php(271): call_user_func_array(Array, Array)
+#8 C:\wamp\www\gestion\lib\Cake\Model\Validator\CakeValidationSet.php(133): CakeValidationRule->process('mail', Array, Array)
+#9 C:\wamp\www\gestion\lib\Cake\Model\ModelValidator.php(268): CakeValidationSet->validate(Array, false)
+#10 C:\wamp\www\gestion\lib\Cake\Model\ModelValidator.php(99): ModelValidator->errors(Array)
+#11 C:\wamp\www\gestion\lib\Cake\Model\Model.php(3021): ModelValidator->validates(Array)
+#12 C:\wamp\www\gestion\lib\Cake\Model\Model.php(1648): Model->validates(Array)
+#13 C:\wamp\www\gestion\app\Controller\UsersController.php(11): Model->save(Array, true, Array)
+#14 [internal function]: UsersController->signup()
+#15 C:\wamp\www\gestion\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#16 C:\wamp\www\gestion\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#17 C:\wamp\www\gestion\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#18 C:\wamp\www\gestion\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#19 {main}
+2014-04-03 18:11:50 Error: Fatal Error (4): syntax error, unexpected '$type' (T_VARIABLE), expecting ',' or ';' in [C:\wamp\www\gestion\app\View\Elements\notif.ctp, line 1]
+2014-04-03 18:11:50 Error: [FatalErrorException] syntax error, unexpected '$type' (T_VARIABLE), expecting ',' or ';'
+#0 C:\wamp\www\gestion\lib\Cake\Error\ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 1)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 1, Array)
+#2 C:\wamp\www\gestion\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\ges...', 1, Array)
+#3 C:\wamp\www\gestion\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-03 18:30:14 Error: Fatal Error (4): syntax error, unexpected 'User' (T_STRING), expecting ')' in [C:\wamp\www\gestion\app\Controller\UsersController.php, line 13]
+2014-04-03 18:30:14 Error: [FatalErrorException] syntax error, unexpected 'User' (T_STRING), expecting ')'
+#0 C:\wamp\www\gestion\lib\Cake\Error\ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 13)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 13, Array)
+#2 C:\wamp\www\gestion\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\ges...', 13, Array)
+#3 C:\wamp\www\gestion\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-03 18:30:45 Error: Fatal Error (4): syntax error, unexpected '@' in [C:\wamp\www\gestion\app\Controller\UsersController.php, line 14]
+2014-04-03 18:30:45 Error: [FatalErrorException] syntax error, unexpected '@'
+#0 C:\wamp\www\gestion\lib\Cake\Error\ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 14)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 14, Array)
+#2 C:\wamp\www\gestion\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\ges...', 14, Array)
+#3 C:\wamp\www\gestion\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-03 18:31:30 Error: Fatal Error (4): syntax error, unexpected ''=>'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in [C:\wamp\www\gestion\app\Controller\UsersController.php, line 16]
+2014-04-03 18:31:30 Error: [FatalErrorException] syntax error, unexpected ''=>'' (T_CONSTANT_ENCAPSED_STRING), expecting ')'
+#0 C:\wamp\www\gestion\lib\Cake\Error\ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 16)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 16, Array)
+#2 C:\wamp\www\gestion\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\ges...', 16, Array)
+#3 C:\wamp\www\gestion\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-03 19:02:18 Error: [MissingActionException] Action UsersController::login() could not be found.
+#0 C:\wamp\www\gestion\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\gestion\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\gestion\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-04-03 19:03:24 Error: Fatal Error (4): syntax error, unexpected '}' in [C:\wamp\www\gestion\app\Controller\UsersController.php, line 9]
+2014-04-03 19:03:24 Error: [FatalErrorException] syntax error, unexpected '}'
+#0 C:\wamp\www\gestion\lib\Cake\Error\ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 9)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 9, Array)
+#2 C:\wamp\www\gestion\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\ges...', 9, Array)
+#3 C:\wamp\www\gestion\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-03 19:03:40 Error: [MissingViewException] View file "C:\wamp\www\gestion\app\View\Users\login.ctp" is missing.
+#0 C:\wamp\www\gestion\lib\Cake\View\View.php(473): View->_getViewFileName(NULL)
+#1 C:\wamp\www\gestion\lib\Cake\Controller\Controller.php(956): View->render(NULL, NULL)
+#2 C:\wamp\www\gestion\lib\Cake\Routing\Dispatcher.php(193): Controller->render()
+#3 C:\wamp\www\gestion\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\wamp\www\gestion\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-04-03 19:04:51 Error: [MissingActionException] Action UsersController::signup() could not be found.
+#0 C:\wamp\www\gestion\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\gestion\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\gestion\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-04-03 19:14:43 Error: [MissingActionException] Action UsersController::signup() could not be found.
+#0 C:\wamp\www\gestion\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\gestion\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\gestion\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-04-03 19:33:46 Error: Fatal Error (1): Call to a member function read() on a non-object in [C:\wamp\www\gestion\app\Controller\UsersController.php, line 5]
+2014-04-03 19:33:46 Error: [FatalErrorException] Call to a member function read() on a non-object
+#0 C:\wamp\www\gestion\lib\Cake\Error\ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\wamp\www\ges...', 5)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\wamp\www\ges...', 5, Array)
+#2 C:\wamp\www\gestion\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\wamp\www\ges...', 5, Array)
+#3 C:\wamp\www\gestion\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-03 20:01:53 Error: [MissingConnectionException] Database connection "Mysql" is missing, or could not be created.
+#0 C:\wamp\www\gestion\lib\Cake\Model\Datasource\DboSource.php(261): Mysql->connect()
+#1 C:\wamp\www\gestion\lib\Cake\Model\ConnectionManager.php(101): DboSource->__construct(Array)
+#2 C:\wamp\www\gestion\lib\Cake\Model\Model.php(3169): ConnectionManager::getDataSource('default')
+#3 C:\wamp\www\gestion\lib\Cake\Model\Model.php(1096): Model->setDataSource('default')
+#4 C:\wamp\www\gestion\lib\Cake\Model\Model.php(3191): Model->setSource('users')
+#5 C:\wamp\www\gestion\lib\Cake\Model\Model.php(1305): Model->getDataSource()
+#6 C:\wamp\www\gestion\lib\Cake\View\Helper\FormHelper.php(197): Model->schema()
+#7 C:\wamp\www\gestion\lib\Cake\View\Helper\FormHelper.php(444): FormHelper->_introspectModel('User', 'fields')
+#8 C:\wamp\www\gestion\app\View\Users\login.ctp(1): FormHelper->create('User')
+#9 C:\wamp\www\gestion\lib\Cake\View\View.php(923): include('C:\wamp\www\ges...')
+#10 C:\wamp\www\gestion\lib\Cake\View\View.php(886): View->_evaluate('C:\wamp\www\ges...', Array)
+#11 C:\wamp\www\gestion\lib\Cake\View\View.php(476): View->_render('C:\wamp\www\ges...')
+#12 C:\wamp\www\gestion\lib\Cake\Controller\Controller.php(956): View->render(NULL, NULL)
+#13 C:\wamp\www\gestion\lib\Cake\Routing\Dispatcher.php(193): Controller->render()
+#14 C:\wamp\www\gestion\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#15 C:\wamp\www\gestion\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#16 {main}
+2014-04-04 08:39:32 Error: [MissingActionException] Action UsersController::signup() could not be found.
+#0 C:\wamp\www\gestion\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\gestion\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\gestion\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-04-04 08:41:58 Error: [MissingActionException] Action UsersController::signup() could not be found.
+#0 C:\wamp\www\gestion\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\gestion\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\gestion\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-04-04 08:52:35 Error: Fatal Error (4): syntax error, unexpected ''role'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in [C:\wamp\www\gestion\app\Controller\UsersController.php, line 10]
+2014-04-04 08:52:35 Error: [FatalErrorException] syntax error, unexpected ''role'' (T_CONSTANT_ENCAPSED_STRING), expecting ')'
+#0 C:\wamp\www\gestion\lib\Cake\Error\ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 10)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 10, Array)
+#2 C:\wamp\www\gestion\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\ges...', 10, Array)
+#3 C:\wamp\www\gestion\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-04 08:53:28 Error: Fatal Error (4): syntax error, unexpected ''role'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in [C:\wamp\www\gestion\app\Controller\UsersController.php, line 10]
+2014-04-04 08:53:28 Error: [FatalErrorException] syntax error, unexpected ''role'' (T_CONSTANT_ENCAPSED_STRING), expecting ')'
+#0 C:\wamp\www\gestion\lib\Cake\Error\ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 10)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 10, Array)
+#2 C:\wamp\www\gestion\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\ges...', 10, Array)
+#3 C:\wamp\www\gestion\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-04 08:53:31 Error: Fatal Error (4): syntax error, unexpected ''role'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in [C:\wamp\www\gestion\app\Controller\UsersController.php, line 10]
+2014-04-04 08:53:31 Error: [FatalErrorException] syntax error, unexpected ''role'' (T_CONSTANT_ENCAPSED_STRING), expecting ')'
+#0 C:\wamp\www\gestion\lib\Cake\Error\ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 10)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 10, Array)
+#2 C:\wamp\www\gestion\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\ges...', 10, Array)
+#3 C:\wamp\www\gestion\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-04 08:58:51 Error: Fatal Error (4): syntax error, unexpected ''User.active => 1);)' (T_ENCAPSED_AND_WHITESPACE), expecting ')' in [C:\wamp\www\gestion\app\Controller\AppController.php, line 41]
+2014-04-04 08:58:51 Error: [FatalErrorException] syntax error, unexpected ''User.active => 1);)' (T_ENCAPSED_AND_WHITESPACE), expecting ')'
+#0 C:\wamp\www\gestion\lib\Cake\Error\ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 41)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 41, Array)
+#2 C:\wamp\www\gestion\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\ges...', 41, Array)
+#3 C:\wamp\www\gestion\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-04 09:00:52 Error: Fatal Error (4): syntax error, unexpected ''User.active => 1);)' (T_ENCAPSED_AND_WHITESPACE), expecting ')' in [C:\wamp\www\gestion\app\Controller\AppController.php, line 14]
+2014-04-04 09:00:52 Error: [FatalErrorException] syntax error, unexpected ''User.active => 1);)' (T_ENCAPSED_AND_WHITESPACE), expecting ')'
+#0 C:\wamp\www\gestion\lib\Cake\Error\ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 14)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 14, Array)
+#2 C:\wamp\www\gestion\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\ges...', 14, Array)
+#3 C:\wamp\www\gestion\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-04 09:01:36 Error: Fatal Error (4): syntax error, unexpected ''User.active => 1);)' (T_ENCAPSED_AND_WHITESPACE), expecting ')' in [C:\wamp\www\gestion\app\Controller\AppController.php, line 14]
+2014-04-04 09:01:36 Error: [FatalErrorException] syntax error, unexpected ''User.active => 1);)' (T_ENCAPSED_AND_WHITESPACE), expecting ')'
+#0 C:\wamp\www\gestion\lib\Cake\Error\ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 14)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 14, Array)
+#2 C:\wamp\www\gestion\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\ges...', 14, Array)
+#3 C:\wamp\www\gestion\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-04 09:02:36 Error: Fatal Error (4): syntax error, unexpected 'if' (T_IF) in [C:\wamp\www\gestion\app\Controller\UsersController.php, line 10]
+2014-04-04 09:02:36 Error: [FatalErrorException] syntax error, unexpected 'if' (T_IF)
+#0 C:\wamp\www\gestion\lib\Cake\Error\ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 10)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 10, Array)
+#2 C:\wamp\www\gestion\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\ges...', 10, Array)
+#3 C:\wamp\www\gestion\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-04 09:03:34 Error: Fatal Error (4): syntax error, unexpected 'if' (T_IF) in [C:\wamp\www\gestion\app\Controller\UsersController.php, line 8]
+2014-04-04 09:03:34 Error: [FatalErrorException] syntax error, unexpected 'if' (T_IF)
+#0 C:\wamp\www\gestion\lib\Cake\Error\ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 8)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 8, Array)
+#2 C:\wamp\www\gestion\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\ges...', 8, Array)
+#3 C:\wamp\www\gestion\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-04 09:03:36 Error: Fatal Error (4): syntax error, unexpected 'if' (T_IF) in [C:\wamp\www\gestion\app\Controller\UsersController.php, line 8]
+2014-04-04 09:03:36 Error: [FatalErrorException] syntax error, unexpected 'if' (T_IF)
+#0 C:\wamp\www\gestion\lib\Cake\Error\ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 8)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 8, Array)
+#2 C:\wamp\www\gestion\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\ges...', 8, Array)
+#3 C:\wamp\www\gestion\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-04 09:05:02 Error: Fatal Error (4): syntax error, unexpected 'if' (T_IF) in [C:\wamp\www\gestion\app\Controller\UsersController.php, line 8]
+2014-04-04 09:05:02 Error: [FatalErrorException] syntax error, unexpected 'if' (T_IF)
+#0 C:\wamp\www\gestion\lib\Cake\Error\ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 8)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 8, Array)
+#2 C:\wamp\www\gestion\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\ges...', 8, Array)
+#3 C:\wamp\www\gestion\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-04 09:05:05 Error: Fatal Error (4): syntax error, unexpected 'if' (T_IF) in [C:\wamp\www\gestion\app\Controller\UsersController.php, line 8]
+2014-04-04 09:05:05 Error: [FatalErrorException] syntax error, unexpected 'if' (T_IF)
+#0 C:\wamp\www\gestion\lib\Cake\Error\ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 8)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 8, Array)
+#2 C:\wamp\www\gestion\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\ges...', 8, Array)
+#3 C:\wamp\www\gestion\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-04 09:05:06 Error: Fatal Error (4): syntax error, unexpected 'if' (T_IF) in [C:\wamp\www\gestion\app\Controller\UsersController.php, line 8]
+2014-04-04 09:05:06 Error: [FatalErrorException] syntax error, unexpected 'if' (T_IF)
+#0 C:\wamp\www\gestion\lib\Cake\Error\ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 8)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 8, Array)
+#2 C:\wamp\www\gestion\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\ges...', 8, Array)
+#3 C:\wamp\www\gestion\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-04 09:05:06 Error: Fatal Error (4): syntax error, unexpected 'if' (T_IF) in [C:\wamp\www\gestion\app\Controller\UsersController.php, line 8]
+2014-04-04 09:05:06 Error: [FatalErrorException] syntax error, unexpected 'if' (T_IF)
+#0 C:\wamp\www\gestion\lib\Cake\Error\ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 8)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 8, Array)
+#2 C:\wamp\www\gestion\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\ges...', 8, Array)
+#3 C:\wamp\www\gestion\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-04 09:05:09 Error: Fatal Error (4): syntax error, unexpected 'if' (T_IF) in [C:\wamp\www\gestion\app\Controller\UsersController.php, line 8]
+2014-04-04 09:05:09 Error: [FatalErrorException] syntax error, unexpected 'if' (T_IF)
+#0 C:\wamp\www\gestion\lib\Cake\Error\ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 8)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 8, Array)
+#2 C:\wamp\www\gestion\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\ges...', 8, Array)
+#3 C:\wamp\www\gestion\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-04 09:05:42 Error: Fatal Error (4): syntax error, unexpected '(' in [C:\wamp\www\gestion\app\Controller\UsersController.php, line 6]
+2014-04-04 09:05:42 Error: [FatalErrorException] syntax error, unexpected '('
+#0 C:\wamp\www\gestion\lib\Cake\Error\ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 6)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 6, Array)
+#2 C:\wamp\www\gestion\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\ges...', 6, Array)
+#3 C:\wamp\www\gestion\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-04 09:06:25 Error: Fatal Error (4): syntax error, unexpected '{' in [C:\wamp\www\gestion\app\Controller\UsersController.php, line 6]
+2014-04-04 09:06:25 Error: [FatalErrorException] syntax error, unexpected '{'
+#0 C:\wamp\www\gestion\lib\Cake\Error\ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 6)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 6, Array)
+#2 C:\wamp\www\gestion\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\ges...', 6, Array)
+#3 C:\wamp\www\gestion\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-04 09:06:27 Error: Fatal Error (4): syntax error, unexpected '{' in [C:\wamp\www\gestion\app\Controller\UsersController.php, line 6]
+2014-04-04 09:06:27 Error: [FatalErrorException] syntax error, unexpected '{'
+#0 C:\wamp\www\gestion\lib\Cake\Error\ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 6)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 6, Array)
+#2 C:\wamp\www\gestion\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\ges...', 6, Array)
+#3 C:\wamp\www\gestion\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-04 09:08:01 Error: Fatal Error (4): syntax error, unexpected '}' in [C:\wamp\www\gestion\app\Controller\UsersController.php, line 13]
+2014-04-04 09:08:01 Error: [FatalErrorException] syntax error, unexpected '}'
+#0 C:\wamp\www\gestion\lib\Cake\Error\ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 13)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 13, Array)
+#2 C:\wamp\www\gestion\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\ges...', 13, Array)
+#3 C:\wamp\www\gestion\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-04 09:08:56 Error: Fatal Error (4): syntax error, unexpected '}' in [C:\wamp\www\gestion\app\Controller\UsersController.php, line 10]
+2014-04-04 09:08:56 Error: [FatalErrorException] syntax error, unexpected '}'
+#0 C:\wamp\www\gestion\lib\Cake\Error\ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 10)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 10, Array)
+#2 C:\wamp\www\gestion\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\ges...', 10, Array)
+#3 C:\wamp\www\gestion\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-04 11:40:20 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC) in [C:\wamp\www\gestion\app\Model\User.php, line 3]
+2014-04-04 11:40:20 Error: [FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC)
+#0 C:\wamp\www\gestion\lib\Cake\Error\ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 3)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 3, Array)
+#2 C:\wamp\www\gestion\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\ges...', 3, Array)
+#3 C:\wamp\www\gestion\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-04 11:55:58 Error: [MissingActionException] Action UsersController::index() could not be found.
+#0 C:\wamp\www\gestion\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\gestion\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\gestion\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-04-04 12:21:46 Error: [MissingActionException] Action PostsController::hello_world() could not be found.
+#0 C:\wamp\www\gestion\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\gestion\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\gestion\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-04-04 12:41:35 Error: Fatal Error (4): syntax error, unexpected ''all););' (T_ENCAPSED_AND_WHITESPACE), expecting ')' in [C:\wamp\www\gestion\app\Controller\PostsController.php, line 8]
+2014-04-04 12:41:35 Error: [FatalErrorException] syntax error, unexpected ''all););' (T_ENCAPSED_AND_WHITESPACE), expecting ')'
+#0 C:\wamp\www\gestion\lib\Cake\Error\ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 8)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 8, Array)
+#2 C:\wamp\www\gestion\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\ges...', 8, Array)
+#3 C:\wamp\www\gestion\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-04 12:42:00 Error: Fatal Error (4): syntax error, unexpected ''all));' (T_ENCAPSED_AND_WHITESPACE), expecting ')' in [C:\wamp\www\gestion\app\Controller\PostsController.php, line 8]
+2014-04-04 12:42:00 Error: [FatalErrorException] syntax error, unexpected ''all));' (T_ENCAPSED_AND_WHITESPACE), expecting ')'
+#0 C:\wamp\www\gestion\lib\Cake\Error\ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 8)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 8, Array)
+#2 C:\wamp\www\gestion\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\ges...', 8, Array)
+#3 C:\wamp\www\gestion\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-04 13:40:02 Error: Fatal Error (4): syntax error, unexpected ')', expecting ',' or ';' in [C:\wamp\www\gestion\app\View\Posts\index.ctp, line 12]
+2014-04-04 13:40:02 Error: [FatalErrorException] syntax error, unexpected ')', expecting ',' or ';'
+#0 C:\wamp\www\gestion\lib\Cake\Error\ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 12)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 12, Array)
+#2 C:\wamp\www\gestion\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\ges...', 12, Array)
+#3 C:\wamp\www\gestion\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-04 13:41:14 Error: Fatal Error (4): syntax error, unexpected ')', expecting ',' or ';' in [C:\wamp\www\gestion\app\View\Posts\index.ctp, line 13]
+2014-04-04 13:41:14 Error: [FatalErrorException] syntax error, unexpected ')', expecting ',' or ';'
+#0 C:\wamp\www\gestion\lib\Cake\Error\ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 13)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 13, Array)
+#2 C:\wamp\www\gestion\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\ges...', 13, Array)
+#3 C:\wamp\www\gestion\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-04 13:43:29 Error: Fatal Error (4): syntax error, unexpected ')', expecting ',' or ';' in [C:\wamp\www\gestion\app\View\Posts\index.ctp, line 13]
+2014-04-04 13:43:29 Error: [FatalErrorException] syntax error, unexpected ')', expecting ',' or ';'
+#0 C:\wamp\www\gestion\lib\Cake\Error\ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 13)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 13, Array)
+#2 C:\wamp\www\gestion\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\ges...', 13, Array)
+#3 C:\wamp\www\gestion\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-04 13:45:43 Error: Fatal Error (4): syntax error, unexpected ')', expecting ',' or ';' in [C:\wamp\www\gestion\app\View\Posts\index.ctp, line 13]
+2014-04-04 13:45:43 Error: [FatalErrorException] syntax error, unexpected ')', expecting ',' or ';'
+#0 C:\wamp\www\gestion\lib\Cake\Error\ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 13)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 13, Array)
+#2 C:\wamp\www\gestion\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\ges...', 13, Array)
+#3 C:\wamp\www\gestion\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-04 13:45:48 Error: Fatal Error (4): syntax error, unexpected ')', expecting ',' or ';' in [C:\wamp\www\gestion\app\View\Posts\index.ctp, line 13]
+2014-04-04 13:45:48 Error: [FatalErrorException] syntax error, unexpected ')', expecting ',' or ';'
+#0 C:\wamp\www\gestion\lib\Cake\Error\ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 13)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 13, Array)
+#2 C:\wamp\www\gestion\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\ges...', 13, Array)
+#3 C:\wamp\www\gestion\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-04 13:48:30 Error: Fatal Error (4): syntax error, unexpected ')', expecting ',' or ';' in [C:\wamp\www\gestion\app\View\Posts\index.ctp, line 13]
+2014-04-04 13:48:30 Error: [FatalErrorException] syntax error, unexpected ')', expecting ',' or ';'
+#0 C:\wamp\www\gestion\lib\Cake\Error\ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 13)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 13, Array)
+#2 C:\wamp\www\gestion\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\ges...', 13, Array)
+#3 C:\wamp\www\gestion\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-04 13:50:11 Error: Fatal Error (4): syntax error, unexpected ')', expecting ',' or ';' in [C:\wamp\www\gestion\app\View\Posts\index.ctp, line 13]
+2014-04-04 13:50:11 Error: [FatalErrorException] syntax error, unexpected ')', expecting ',' or ';'
+#0 C:\wamp\www\gestion\lib\Cake\Error\ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 13)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 13, Array)
+#2 C:\wamp\www\gestion\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\ges...', 13, Array)
+#3 C:\wamp\www\gestion\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-04 13:50:15 Error: Fatal Error (4): syntax error, unexpected ')', expecting ',' or ';' in [C:\wamp\www\gestion\app\View\Posts\index.ctp, line 13]
+2014-04-04 13:50:15 Error: [FatalErrorException] syntax error, unexpected ')', expecting ',' or ';'
+#0 C:\wamp\www\gestion\lib\Cake\Error\ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 13)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 13, Array)
+#2 C:\wamp\www\gestion\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\ges...', 13, Array)
+#3 C:\wamp\www\gestion\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-04 13:50:24 Error: Fatal Error (4): syntax error, unexpected ')', expecting ',' or ';' in [C:\wamp\www\gestion\app\View\Posts\index.ctp, line 13]
+2014-04-04 13:50:24 Error: [FatalErrorException] syntax error, unexpected ')', expecting ',' or ';'
+#0 C:\wamp\www\gestion\lib\Cake\Error\ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 13)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 13, Array)
+#2 C:\wamp\www\gestion\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\ges...', 13, Array)
+#3 C:\wamp\www\gestion\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-04 13:51:02 Error: Fatal Error (4): syntax error, unexpected ')', expecting ',' or ';' in [C:\wamp\www\gestion\app\View\Posts\index.ctp, line 13]
+2014-04-04 13:51:02 Error: [FatalErrorException] syntax error, unexpected ')', expecting ',' or ';'
+#0 C:\wamp\www\gestion\lib\Cake\Error\ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 13)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 13, Array)
+#2 C:\wamp\www\gestion\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\ges...', 13, Array)
+#3 C:\wamp\www\gestion\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-04 13:52:16 Error: Fatal Error (4): syntax error, unexpected ')', expecting ',' or ';' in [C:\wamp\www\gestion\app\View\Posts\index.ctp, line 13]
+2014-04-04 13:52:16 Error: [FatalErrorException] syntax error, unexpected ')', expecting ',' or ';'
+#0 C:\wamp\www\gestion\lib\Cake\Error\ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 13)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 13, Array)
+#2 C:\wamp\www\gestion\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\ges...', 13, Array)
+#3 C:\wamp\www\gestion\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-04 13:52:57 Error: Fatal Error (4): syntax error, unexpected ')', expecting ',' or ';' in [C:\wamp\www\gestion\app\View\Posts\index.ctp, line 13]
+2014-04-04 13:52:57 Error: [FatalErrorException] syntax error, unexpected ')', expecting ',' or ';'
+#0 C:\wamp\www\gestion\lib\Cake\Error\ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 13)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 13, Array)
+#2 C:\wamp\www\gestion\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\ges...', 13, Array)
+#3 C:\wamp\www\gestion\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-04 13:55:52 Error: Fatal Error (4): syntax error, unexpected ')', expecting ',' or ';' in [C:\wamp\www\gestion\app\View\Posts\index.ctp, line 13]
+2014-04-04 13:55:52 Error: [FatalErrorException] syntax error, unexpected ')', expecting ',' or ';'
+#0 C:\wamp\www\gestion\lib\Cake\Error\ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 13)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 13, Array)
+#2 C:\wamp\www\gestion\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\ges...', 13, Array)
+#3 C:\wamp\www\gestion\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-04 13:56:30 Error: [MissingActionException] Action PostsController::indew() could not be found.
+#0 C:\wamp\www\gestion\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\gestion\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\gestion\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-04-04 13:57:09 Error: [MissingActionException] Action PostsController::indew() could not be found.
+#0 C:\wamp\www\gestion\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\gestion\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\gestion\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-04-04 13:59:25 Error: Fatal Error (4): syntax error, unexpected ')', expecting ',' or ';' in [C:\wamp\www\gestion\app\View\Posts\index.ctp, line 13]
+2014-04-04 13:59:25 Error: [FatalErrorException] syntax error, unexpected ')', expecting ',' or ';'
+#0 C:\wamp\www\gestion\lib\Cake\Error\ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 13)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 13, Array)
+#2 C:\wamp\www\gestion\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\ges...', 13, Array)
+#3 C:\wamp\www\gestion\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-04 14:00:19 Error: Fatal Error (4): syntax error, unexpected ')', expecting ',' or ';' in [C:\wamp\www\gestion\app\View\Posts\index.ctp, line 13]
+2014-04-04 14:00:19 Error: [FatalErrorException] syntax error, unexpected ')', expecting ',' or ';'
+#0 C:\wamp\www\gestion\lib\Cake\Error\ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 13)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 13, Array)
+#2 C:\wamp\www\gestion\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\ges...', 13, Array)
+#3 C:\wamp\www\gestion\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-04 14:00:28 Error: Fatal Error (4): syntax error, unexpected ')' in [C:\wamp\www\gestion\app\View\Posts\index.ctp, line 13]
+2014-04-04 14:00:28 Error: [FatalErrorException] syntax error, unexpected ')'
+#0 C:\wamp\www\gestion\lib\Cake\Error\ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 13)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 13, Array)
+#2 C:\wamp\www\gestion\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\ges...', 13, Array)
+#3 C:\wamp\www\gestion\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-04 14:02:03 Error: Fatal Error (4): syntax error, unexpected ';' in [C:\wamp\www\gestion\app\View\Posts\index.ctp, line 12]
+2014-04-04 14:02:03 Error: [FatalErrorException] syntax error, unexpected ';'
+#0 C:\wamp\www\gestion\lib\Cake\Error\ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 12)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 12, Array)
+#2 C:\wamp\www\gestion\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\ges...', 12, Array)
+#3 C:\wamp\www\gestion\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-04 14:02:12 Error: Fatal Error (4): syntax error, unexpected ')' in [C:\wamp\www\gestion\app\View\Posts\index.ctp, line 13]
+2014-04-04 14:02:12 Error: [FatalErrorException] syntax error, unexpected ')'
+#0 C:\wamp\www\gestion\lib\Cake\Error\ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 13)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 13, Array)
+#2 C:\wamp\www\gestion\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\ges...', 13, Array)
+#3 C:\wamp\www\gestion\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-04 14:02:56 Error: Fatal Error (4): syntax error, unexpected ')', expecting ',' or ';' in [C:\wamp\www\gestion\app\View\Posts\index.ctp, line 13]
+2014-04-04 14:02:56 Error: [FatalErrorException] syntax error, unexpected ')', expecting ',' or ';'
+#0 C:\wamp\www\gestion\lib\Cake\Error\ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 13)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 13, Array)
+#2 C:\wamp\www\gestion\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\ges...', 13, Array)
+#3 C:\wamp\www\gestion\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-04 14:03:43 Error: Fatal Error (4): syntax error, unexpected ')', expecting ',' or ';' in [C:\wamp\www\gestion\app\View\Posts\index.ctp, line 13]
+2014-04-04 14:03:43 Error: [FatalErrorException] syntax error, unexpected ')', expecting ',' or ';'
+#0 C:\wamp\www\gestion\lib\Cake\Error\ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 13)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 13, Array)
+#2 C:\wamp\www\gestion\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\ges...', 13, Array)
+#3 C:\wamp\www\gestion\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-04 14:11:08 Error: Fatal Error (4): syntax error, unexpected ')', expecting ',' or ';' in [C:\wamp\www\gestion\app\View\Posts\index.ctp, line 13]
+2014-04-04 14:11:08 Error: [FatalErrorException] syntax error, unexpected ')', expecting ',' or ';'
+#0 C:\wamp\www\gestion\lib\Cake\Error\ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 13)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 13, Array)
+#2 C:\wamp\www\gestion\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\ges...', 13, Array)
+#3 C:\wamp\www\gestion\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-04 14:11:16 Error: Fatal Error (4): syntax error, unexpected ')', expecting ',' or ';' in [C:\wamp\www\gestion\app\View\Posts\index.ctp, line 13]
+2014-04-04 14:11:16 Error: [FatalErrorException] syntax error, unexpected ')', expecting ',' or ';'
+#0 C:\wamp\www\gestion\lib\Cake\Error\ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 13)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 13, Array)
+#2 C:\wamp\www\gestion\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\ges...', 13, Array)
+#3 C:\wamp\www\gestion\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-04 14:12:41 Error: Fatal Error (4): syntax error, unexpected ')', expecting ',' or ';' in [C:\wamp\www\gestion\app\View\Posts\index.ctp, line 13]
+2014-04-04 14:12:41 Error: [FatalErrorException] syntax error, unexpected ')', expecting ',' or ';'
+#0 C:\wamp\www\gestion\lib\Cake\Error\ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 13)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 13, Array)
+#2 C:\wamp\www\gestion\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\ges...', 13, Array)
+#3 C:\wamp\www\gestion\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-15 21:31:17 Error: [MissingControllerException] Controller class PostController could not be found.
+#0 C:\wamp\www\gestion\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-04-15 21:31:33 Error: Fatal Error (4): syntax error, unexpected '->' (T_OBJECT_OPERATOR) in [C:\wamp\www\gestion\app\Controller\PostsController.php, line 20]
+2014-04-15 21:31:33 Error: [FatalErrorException] syntax error, unexpected '->' (T_OBJECT_OPERATOR)
+#0 C:\wamp\www\gestion\lib\Cake\Error\ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 20)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 20, Array)
+#2 C:\wamp\www\gestion\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\ges...', 20, Array)
+#3 C:\wamp\www\gestion\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-15 21:33:07 Error: Fatal Error (4): syntax error, unexpected '->' (T_OBJECT_OPERATOR) in [C:\wamp\www\gestion\app\Controller\PostsController.php, line 20]
+2014-04-15 21:33:07 Error: [FatalErrorException] syntax error, unexpected '->' (T_OBJECT_OPERATOR)
+#0 C:\wamp\www\gestion\lib\Cake\Error\ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 20)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 20, Array)
+#2 C:\wamp\www\gestion\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\ges...', 20, Array)
+#3 C:\wamp\www\gestion\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-15 21:33:19 Error: Fatal Error (4): syntax error, unexpected '->' (T_OBJECT_OPERATOR) in [C:\wamp\www\gestion\app\Controller\PostsController.php, line 20]
+2014-04-15 21:33:19 Error: [FatalErrorException] syntax error, unexpected '->' (T_OBJECT_OPERATOR)
+#0 C:\wamp\www\gestion\lib\Cake\Error\ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 20)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 20, Array)
+#2 C:\wamp\www\gestion\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\ges...', 20, Array)
+#3 C:\wamp\www\gestion\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-15 21:33:24 Error: Fatal Error (4): syntax error, unexpected '->' (T_OBJECT_OPERATOR) in [C:\wamp\www\gestion\app\Controller\PostsController.php, line 20]
+2014-04-15 21:33:24 Error: [FatalErrorException] syntax error, unexpected '->' (T_OBJECT_OPERATOR)
+#0 C:\wamp\www\gestion\lib\Cake\Error\ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 20)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 20, Array)
+#2 C:\wamp\www\gestion\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\ges...', 20, Array)
+#3 C:\wamp\www\gestion\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-15 21:33:54 Error: Fatal Error (4): syntax error, unexpected '->' (T_OBJECT_OPERATOR) in [C:\wamp\www\gestion\app\Controller\PostsController.php, line 20]
+2014-04-15 21:33:54 Error: [FatalErrorException] syntax error, unexpected '->' (T_OBJECT_OPERATOR)
+#0 C:\wamp\www\gestion\lib\Cake\Error\ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 20)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 20, Array)
+#2 C:\wamp\www\gestion\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\ges...', 20, Array)
+#3 C:\wamp\www\gestion\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-15 21:33:58 Error: Fatal Error (4): syntax error, unexpected '->' (T_OBJECT_OPERATOR) in [C:\wamp\www\gestion\app\Controller\PostsController.php, line 20]
+2014-04-15 21:33:58 Error: [FatalErrorException] syntax error, unexpected '->' (T_OBJECT_OPERATOR)
+#0 C:\wamp\www\gestion\lib\Cake\Error\ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 20)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 20, Array)
+#2 C:\wamp\www\gestion\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\ges...', 20, Array)
+#3 C:\wamp\www\gestion\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-15 21:34:35 Error: [MissingControllerException] Controller class PostscontrollerController could not be found.
+#0 C:\wamp\www\gestion\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-04-15 21:34:44 Error: [MissingControllerException] Controller class PostscontrollerController could not be found.
+#0 C:\wamp\www\gestion\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-04-15 21:35:33 Error: Fatal Error (4): syntax error, unexpected '->' (T_OBJECT_OPERATOR) in [C:\wamp\www\gestion\app\Controller\PostsController.php, line 20]
+2014-04-15 21:35:33 Error: [FatalErrorException] syntax error, unexpected '->' (T_OBJECT_OPERATOR)
+#0 C:\wamp\www\gestion\lib\Cake\Error\ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 20)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 20, Array)
+#2 C:\wamp\www\gestion\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\ges...', 20, Array)
+#3 C:\wamp\www\gestion\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-15 21:35:41 Error: Fatal Error (4): syntax error, unexpected '->' (T_OBJECT_OPERATOR) in [C:\wamp\www\gestion\app\Controller\PostsController.php, line 20]
+2014-04-15 21:35:41 Error: [FatalErrorException] syntax error, unexpected '->' (T_OBJECT_OPERATOR)
+#0 C:\wamp\www\gestion\lib\Cake\Error\ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 20)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 20, Array)
+#2 C:\wamp\www\gestion\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\ges...', 20, Array)
+#3 C:\wamp\www\gestion\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-15 21:36:06 Error: Fatal Error (4): syntax error, unexpected '->' (T_OBJECT_OPERATOR) in [C:\wamp\www\gestion\app\Controller\PostsController.php, line 20]
+2014-04-15 21:36:06 Error: [FatalErrorException] syntax error, unexpected '->' (T_OBJECT_OPERATOR)
+#0 C:\wamp\www\gestion\lib\Cake\Error\ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 20)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 20, Array)
+#2 C:\wamp\www\gestion\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\ges...', 20, Array)
+#3 C:\wamp\www\gestion\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-15 21:36:39 Error: Fatal Error (4): syntax error, unexpected '->' (T_OBJECT_OPERATOR) in [C:\wamp\www\gestion\app\Controller\PostsController.php, line 20]
+2014-04-15 21:36:39 Error: [FatalErrorException] syntax error, unexpected '->' (T_OBJECT_OPERATOR)
+#0 C:\wamp\www\gestion\lib\Cake\Error\ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 20)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 20, Array)
+#2 C:\wamp\www\gestion\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\ges...', 20, Array)
+#3 C:\wamp\www\gestion\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-15 21:36:44 Error: Fatal Error (4): syntax error, unexpected '->' (T_OBJECT_OPERATOR) in [C:\wamp\www\gestion\app\Controller\PostsController.php, line 20]
+2014-04-15 21:36:44 Error: [FatalErrorException] syntax error, unexpected '->' (T_OBJECT_OPERATOR)
+#0 C:\wamp\www\gestion\lib\Cake\Error\ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 20)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 20, Array)
+#2 C:\wamp\www\gestion\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\ges...', 20, Array)
+#3 C:\wamp\www\gestion\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-15 21:37:07 Error: Fatal Error (4): syntax error, unexpected '->' (T_OBJECT_OPERATOR) in [C:\wamp\www\gestion\app\Controller\PostsController.php, line 20]
+2014-04-15 21:37:07 Error: [FatalErrorException] syntax error, unexpected '->' (T_OBJECT_OPERATOR)
+#0 C:\wamp\www\gestion\lib\Cake\Error\ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 20)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 20, Array)
+#2 C:\wamp\www\gestion\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\ges...', 20, Array)
+#3 C:\wamp\www\gestion\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-15 21:38:38 Error: Fatal Error (4): syntax error, unexpected '->' (T_OBJECT_OPERATOR) in [C:\wamp\www\gestion\app\Controller\PostsController.php, line 20]
+2014-04-15 21:38:38 Error: [FatalErrorException] syntax error, unexpected '->' (T_OBJECT_OPERATOR)
+#0 C:\wamp\www\gestion\lib\Cake\Error\ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 20)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 20, Array)
+#2 C:\wamp\www\gestion\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\ges...', 20, Array)
+#3 C:\wamp\www\gestion\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-15 21:38:39 Error: Fatal Error (4): syntax error, unexpected '->' (T_OBJECT_OPERATOR) in [C:\wamp\www\gestion\app\Controller\PostsController.php, line 20]
+2014-04-15 21:38:39 Error: [FatalErrorException] syntax error, unexpected '->' (T_OBJECT_OPERATOR)
+#0 C:\wamp\www\gestion\lib\Cake\Error\ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 20)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 20, Array)
+#2 C:\wamp\www\gestion\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\ges...', 20, Array)
+#3 C:\wamp\www\gestion\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-15 21:43:21 Error: Fatal Error (4): syntax error, unexpected '->' (T_OBJECT_OPERATOR) in [C:\wamp\www\gestion\app\Controller\PostsController.php, line 20]
+2014-04-15 21:43:21 Error: [FatalErrorException] syntax error, unexpected '->' (T_OBJECT_OPERATOR)
+#0 C:\wamp\www\gestion\lib\Cake\Error\ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 20)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 20, Array)
+#2 C:\wamp\www\gestion\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\ges...', 20, Array)
+#3 C:\wamp\www\gestion\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-15 21:43:27 Error: Fatal Error (4): syntax error, unexpected '->' (T_OBJECT_OPERATOR) in [C:\wamp\www\gestion\app\Controller\PostsController.php, line 20]
+2014-04-15 21:43:27 Error: [FatalErrorException] syntax error, unexpected '->' (T_OBJECT_OPERATOR)
+#0 C:\wamp\www\gestion\lib\Cake\Error\ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 20)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 20, Array)
+#2 C:\wamp\www\gestion\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\ges...', 20, Array)
+#3 C:\wamp\www\gestion\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-15 21:43:33 Error: Fatal Error (4): syntax error, unexpected '->' (T_OBJECT_OPERATOR) in [C:\wamp\www\gestion\app\Controller\PostsController.php, line 20]
+2014-04-15 21:43:33 Error: [FatalErrorException] syntax error, unexpected '->' (T_OBJECT_OPERATOR)
+#0 C:\wamp\www\gestion\lib\Cake\Error\ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 20)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 20, Array)
+#2 C:\wamp\www\gestion\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\ges...', 20, Array)
+#3 C:\wamp\www\gestion\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-15 21:44:13 Error: Fatal Error (4): syntax error, unexpected '->' (T_OBJECT_OPERATOR) in [C:\wamp\www\gestion\app\Controller\PostsController.php, line 20]
+2014-04-15 21:44:13 Error: [FatalErrorException] syntax error, unexpected '->' (T_OBJECT_OPERATOR)
+#0 C:\wamp\www\gestion\lib\Cake\Error\ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 20)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 20, Array)
+#2 C:\wamp\www\gestion\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\ges...', 20, Array)
+#3 C:\wamp\www\gestion\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-15 21:45:15 Error: Fatal Error (4): syntax error, unexpected '->' (T_OBJECT_OPERATOR) in [C:\wamp\www\gestion\app\Controller\PostsController.php, line 20]
+2014-04-15 21:45:15 Error: [FatalErrorException] syntax error, unexpected '->' (T_OBJECT_OPERATOR)
+#0 C:\wamp\www\gestion\lib\Cake\Error\ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 20)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 20, Array)
+#2 C:\wamp\www\gestion\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\ges...', 20, Array)
+#3 C:\wamp\www\gestion\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-15 21:45:45 Error: Fatal Error (4): syntax error, unexpected '->' (T_OBJECT_OPERATOR) in [C:\wamp\www\gestion\app\Controller\PostsController.php, line 20]
+2014-04-15 21:45:45 Error: [FatalErrorException] syntax error, unexpected '->' (T_OBJECT_OPERATOR)
+#0 C:\wamp\www\gestion\lib\Cake\Error\ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 20)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 20, Array)
+#2 C:\wamp\www\gestion\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\ges...', 20, Array)
+#3 C:\wamp\www\gestion\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-15 21:46:25 Error: [MissingActionException] Action UsersController::index() could not be found.
+#0 C:\wamp\www\gestion\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\gestion\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\wamp\www\gestion\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-04-15 21:47:07 Error: Fatal Error (4): syntax error, unexpected '->' (T_OBJECT_OPERATOR) in [C:\wamp\www\gestion\app\Controller\PostsController.php, line 20]
+2014-04-15 21:47:07 Error: [FatalErrorException] syntax error, unexpected '->' (T_OBJECT_OPERATOR)
+#0 C:\wamp\www\gestion\lib\Cake\Error\ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 20)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 20, Array)
+#2 C:\wamp\www\gestion\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\ges...', 20, Array)
+#3 C:\wamp\www\gestion\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-15 21:47:23 Error: Fatal Error (4): syntax error, unexpected '->' (T_OBJECT_OPERATOR) in [C:\wamp\www\gestion\app\Controller\PostsController.php, line 20]
+2014-04-15 21:47:23 Error: [FatalErrorException] syntax error, unexpected '->' (T_OBJECT_OPERATOR)
+#0 C:\wamp\www\gestion\lib\Cake\Error\ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 20)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 20, Array)
+#2 C:\wamp\www\gestion\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\ges...', 20, Array)
+#3 C:\wamp\www\gestion\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-15 21:47:31 Error: Fatal Error (4): syntax error, unexpected '->' (T_OBJECT_OPERATOR) in [C:\wamp\www\gestion\app\Controller\PostsController.php, line 20]
+2014-04-15 21:47:31 Error: [FatalErrorException] syntax error, unexpected '->' (T_OBJECT_OPERATOR)
+#0 C:\wamp\www\gestion\lib\Cake\Error\ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 20)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 20, Array)
+#2 C:\wamp\www\gestion\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\ges...', 20, Array)
+#3 C:\wamp\www\gestion\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-15 21:48:04 Error: Fatal Error (4): syntax error, unexpected '->' (T_OBJECT_OPERATOR) in [C:\wamp\www\gestion\app\Controller\PostsController.php, line 20]
+2014-04-15 21:48:04 Error: [FatalErrorException] syntax error, unexpected '->' (T_OBJECT_OPERATOR)
+#0 C:\wamp\www\gestion\lib\Cake\Error\ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 20)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 20, Array)
+#2 C:\wamp\www\gestion\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\ges...', 20, Array)
+#3 C:\wamp\www\gestion\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-15 21:48:59 Error: Fatal Error (4): syntax error, unexpected '->' (T_OBJECT_OPERATOR) in [C:\wamp\www\gestion\app\Controller\PostsController.php, line 20]
+2014-04-15 21:48:59 Error: [FatalErrorException] syntax error, unexpected '->' (T_OBJECT_OPERATOR)
+#0 C:\wamp\www\gestion\lib\Cake\Error\ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 20)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 20, Array)
+#2 C:\wamp\www\gestion\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\ges...', 20, Array)
+#3 C:\wamp\www\gestion\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-15 21:53:49 Error: Fatal Error (4): syntax error, unexpected '->' (T_OBJECT_OPERATOR) in [C:\wamp\www\gestion\app\Controller\PostsController.php, line 20]
+2014-04-15 21:53:49 Error: [FatalErrorException] syntax error, unexpected '->' (T_OBJECT_OPERATOR)
+#0 C:\wamp\www\gestion\lib\Cake\Error\ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 20)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 20, Array)
+#2 C:\wamp\www\gestion\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\ges...', 20, Array)
+#3 C:\wamp\www\gestion\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-15 21:55:04 Error: Fatal Error (4): syntax error, unexpected '->' (T_OBJECT_OPERATOR) in [C:\wamp\www\gestion\app\Controller\PostsController.php, line 20]
+2014-04-15 21:55:04 Error: [FatalErrorException] syntax error, unexpected '->' (T_OBJECT_OPERATOR)
+#0 C:\wamp\www\gestion\lib\Cake\Error\ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 20)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 20, Array)
+#2 C:\wamp\www\gestion\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\ges...', 20, Array)
+#3 C:\wamp\www\gestion\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-16 18:52:58 Error: Fatal Error (4): syntax error, unexpected '->' (T_OBJECT_OPERATOR) in [C:\wamp\www\gestion\app\Controller\PostsController.php, line 20]
+2014-04-16 18:52:58 Error: [FatalErrorException] syntax error, unexpected '->' (T_OBJECT_OPERATOR)
+#0 C:\wamp\www\gestion\lib\Cake\Error\ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 20)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 20, Array)
+#2 C:\wamp\www\gestion\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\ges...', 20, Array)
+#3 C:\wamp\www\gestion\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-17 20:42:37 Error: Fatal Error (4): syntax error, unexpected '->' (T_OBJECT_OPERATOR) in [C:\wamp\www\gestion\app\Controller\PostsController.php, line 20]
+2014-04-17 20:42:37 Error: [FatalErrorException] syntax error, unexpected '->' (T_OBJECT_OPERATOR)
+#0 C:\wamp\www\gestion\lib\Cake\Error\ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 20)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 20, Array)
+#2 C:\wamp\www\gestion\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\ges...', 20, Array)
+#3 C:\wamp\www\gestion\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-17 20:43:46 Error: Fatal Error (4): syntax error, unexpected '->' (T_OBJECT_OPERATOR) in [C:\wamp\www\gestion\app\Controller\PostsController.php, line 20]
+2014-04-17 20:43:46 Error: [FatalErrorException] syntax error, unexpected '->' (T_OBJECT_OPERATOR)
+#0 C:\wamp\www\gestion\lib\Cake\Error\ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 20)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 20, Array)
+#2 C:\wamp\www\gestion\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\ges...', 20, Array)
+#3 C:\wamp\www\gestion\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-17 20:43:50 Error: Fatal Error (4): syntax error, unexpected '->' (T_OBJECT_OPERATOR) in [C:\wamp\www\gestion\app\Controller\PostsController.php, line 20]
+2014-04-17 20:43:50 Error: [FatalErrorException] syntax error, unexpected '->' (T_OBJECT_OPERATOR)
+#0 C:\wamp\www\gestion\lib\Cake\Error\ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 20)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 20, Array)
+#2 C:\wamp\www\gestion\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\ges...', 20, Array)
+#3 C:\wamp\www\gestion\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-17 20:45:19 Error: Fatal Error (4): syntax error, unexpected '->' (T_OBJECT_OPERATOR) in [C:\wamp\www\gestion\app\Controller\PostsController.php, line 20]
+2014-04-17 20:45:19 Error: [FatalErrorException] syntax error, unexpected '->' (T_OBJECT_OPERATOR)
+#0 C:\wamp\www\gestion\lib\Cake\Error\ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 20)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 20, Array)
+#2 C:\wamp\www\gestion\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\ges...', 20, Array)
+#3 C:\wamp\www\gestion\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-17 20:48:36 Error: Fatal Error (4): syntax error, unexpected '{' in [C:\wamp\www\gestion\app\Controller\PostsController.php, line 18]
+2014-04-17 20:48:36 Error: [FatalErrorException] syntax error, unexpected '{'
+#0 C:\wamp\www\gestion\lib\Cake\Error\ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 18)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 18, Array)
+#2 C:\wamp\www\gestion\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\ges...', 18, Array)
+#3 C:\wamp\www\gestion\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-17 20:51:35 Error: Fatal Error (4): syntax error, unexpected '{' in [C:\wamp\www\gestion\app\Controller\PostsController.php, line 18]
+2014-04-17 20:51:35 Error: [FatalErrorException] syntax error, unexpected '{'
+#0 C:\wamp\www\gestion\lib\Cake\Error\ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 18)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 18, Array)
+#2 C:\wamp\www\gestion\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\ges...', 18, Array)
+#3 C:\wamp\www\gestion\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-17 20:51:39 Error: Fatal Error (4): syntax error, unexpected '{' in [C:\wamp\www\gestion\app\Controller\PostsController.php, line 18]
+2014-04-17 20:51:39 Error: [FatalErrorException] syntax error, unexpected '{'
+#0 C:\wamp\www\gestion\lib\Cake\Error\ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 18)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 18, Array)
+#2 C:\wamp\www\gestion\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\ges...', 18, Array)
+#3 C:\wamp\www\gestion\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-17 20:51:58 Error: Fatal Error (4): syntax error, unexpected 'if' (T_IF) in [C:\wamp\www\gestion\app\Controller\PostsController.php, line 19]
+2014-04-17 20:51:58 Error: [FatalErrorException] syntax error, unexpected 'if' (T_IF)
+#0 C:\wamp\www\gestion\lib\Cake\Error\ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 19)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 19, Array)
+#2 C:\wamp\www\gestion\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\ges...', 19, Array)
+#3 C:\wamp\www\gestion\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-17 20:52:30 Error: Fatal Error (4): syntax error, unexpected 'if' (T_IF) in [C:\wamp\www\gestion\app\Controller\PostsController.php, line 19]
+2014-04-17 20:52:30 Error: [FatalErrorException] syntax error, unexpected 'if' (T_IF)
+#0 C:\wamp\www\gestion\lib\Cake\Error\ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 19)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 19, Array)
+#2 C:\wamp\www\gestion\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\ges...', 19, Array)
+#3 C:\wamp\www\gestion\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-17 21:21:07 Error: Fatal Error (4): syntax error, unexpected '$post' (T_VARIABLE), expecting ')' in [C:\wamp\www\gestion\app\View\Posts\index.ctp, line 17]
+2014-04-17 21:21:07 Error: [FatalErrorException] syntax error, unexpected '$post' (T_VARIABLE), expecting ')'
+#0 C:\wamp\www\gestion\lib\Cake\Error\ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 17)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 17, Array)
+#2 C:\wamp\www\gestion\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\ges...', 17, Array)
+#3 C:\wamp\www\gestion\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-17 21:21:47 Error: Fatal Error (4): syntax error, unexpected '$post' (T_VARIABLE), expecting ')' in [C:\wamp\www\gestion\app\View\Posts\index.ctp, line 17]
+2014-04-17 21:21:47 Error: [FatalErrorException] syntax error, unexpected '$post' (T_VARIABLE), expecting ')'
+#0 C:\wamp\www\gestion\lib\Cake\Error\ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 17)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 17, Array)
+#2 C:\wamp\www\gestion\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\ges...', 17, Array)
+#3 C:\wamp\www\gestion\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-17 21:22:10 Error: Fatal Error (4): syntax error, unexpected ''Modifier'' (T_CONSTANT_ENCAPSED_STRING) in [C:\wamp\www\gestion\app\View\Posts\index.ctp, line 17]
+2014-04-17 21:22:10 Error: [FatalErrorException] syntax error, unexpected ''Modifier'' (T_CONSTANT_ENCAPSED_STRING)
+#0 C:\wamp\www\gestion\lib\Cake\Error\ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 17)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 17, Array)
+#2 C:\wamp\www\gestion\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\ges...', 17, Array)
+#3 C:\wamp\www\gestion\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-04-17 21:23:30 Error: Fatal Error (4): syntax error, unexpected '$post' (T_VARIABLE), expecting ')' in [C:\wamp\www\gestion\app\View\Posts\index.ctp, line 17]
+2014-04-17 21:23:30 Error: [FatalErrorException] syntax error, unexpected '$post' (T_VARIABLE), expecting ')'
+#0 C:\wamp\www\gestion\lib\Cake\Error\ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 17)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\wamp\www\ges...', 17, Array)
+#2 C:\wamp\www\gestion\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\wamp\www\ges...', 17, Array)
+#3 C:\wamp\www\gestion\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
